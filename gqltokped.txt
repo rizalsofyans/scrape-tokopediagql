@@ -1,0 +1,723 @@
+2023-03-19 23:12:53 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:12:53 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:12:53 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 3,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:12:53 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:12:53 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:12:53 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:12:53 [scrapy.extensions.telnet] INFO: Telnet Password: 1e8aa35d86f4eb02
+2023-03-19 23:12:53 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:12:54 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:12:54 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:12:54 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:12:54 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:12:54 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:12:54 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:12:54 [scrapy.core.engine] ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "/home/norris/dev/scraping/scrape/lib/python3.10/site-packages/scrapy/core/engine.py", line 158, in _next_request
+    request = next(self.slot.start_requests)
+  File "/home/norris/dev/scraping/scrape/tokopedia/tokopedia/spiders/gqltokped.py", line 119, in start_requests
+    yield scrapy.Request(
+  File "/home/norris/dev/scraping/scrape/lib/python3.10/site-packages/scrapy/http/request/__init__.py", line 93, in __init__
+    self._set_url(url)
+  File "/home/norris/dev/scraping/scrape/lib/python3.10/site-packages/scrapy/http/request/__init__.py", line 133, in _set_url
+    raise TypeError(f"Request url must be str, got {type(url).__name__}")
+TypeError: Request url must be str, got list
+2023-03-19 23:12:54 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:12:54 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'elapsed_time_seconds': 0.004724,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 12, 54, 283743),
+ 'log_count/DEBUG': 3,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 10,
+ 'memusage/max': 63008768,
+ 'memusage/startup': 63008768,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 12, 54, 279019)}
+2023-03-19 23:12:54 [scrapy.core.engine] INFO: Spider closed (finished)
+2023-03-19 23:13:14 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:13:14 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:13:14 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 6,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:13:14 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:13:14 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:13:14 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:13:14 [scrapy.extensions.telnet] INFO: Telnet Password: ce63a491e52bb288
+2023-03-19 23:13:14 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:13:14 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:13:14 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:13:14 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:13:14 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:13:14 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:13:14 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:13:59 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2023-03-19 23:13:59 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2023-03-19 23:14:01 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown
+2023-03-19 23:14:01 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <POST http://gql.tokopedia.com/graphql> (failed 1 times): [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2023-03-19 23:14:01 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 3171,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/POST': 1,
+ 'elapsed_time_seconds': 46.175207,
+ 'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 14, 1, 111223),
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 12,
+ 'memusage/max': 62885888,
+ 'memusage/startup': 62885888,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 13, 14, 936016)}
+2023-03-19 23:14:01 [scrapy.core.engine] INFO: Spider closed (shutdown)
+2023-03-19 23:16:07 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:16:07 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:16:07 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 4,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:16:07 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:16:07 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:16:07 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:16:07 [scrapy.extensions.telnet] INFO: Telnet Password: 3b0b5e52d3ffda0c
+2023-03-19 23:16:07 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:16:07 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:16:07 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:16:07 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:16:07 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:16:07 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:16:07 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:17:00 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2023-03-19 23:17:00 [scrapy.core.engine] INFO: Closing spider (shutdown)
+2023-03-19 23:17:00 [scrapy.crawler] INFO: Received SIGINT twice, forcing unclean shutdown
+2023-03-19 23:17:00 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <POST http://gql.tokopedia.com/graphql> (failed 1 times): [<twisted.python.failure.Failure twisted.internet.error.ConnectionLost: Connection to the other side was lost in a non-clean fashion: Connection lost.>]
+2023-03-19 23:17:00 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 3171,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/POST': 1,
+ 'elapsed_time_seconds': 52.709851,
+ 'finish_reason': 'shutdown',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 17, 0, 571223),
+ 'log_count/DEBUG': 4,
+ 'log_count/INFO': 12,
+ 'memusage/max': 63188992,
+ 'memusage/startup': 63188992,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 16, 7, 861372)}
+2023-03-19 23:17:00 [scrapy.core.engine] INFO: Spider closed (shutdown)
+2023-03-19 23:17:29 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:17:29 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:17:29 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 5,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:17:29 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:17:29 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:17:29 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:17:29 [scrapy.extensions.telnet] INFO: Telnet Password: 2a41473ddf9c1c7d
+2023-03-19 23:17:29 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:17:29 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:17:29 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:17:29 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:17:29 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:17:29 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:17:29 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:17:30 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <POST https://gql.tokopedia.com/graphql> from <POST http://gql.tokopedia.com/graphql>
+2023-03-19 23:17:34 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://gql.tokopedia.com/graphql> (referer: https://www.tokopedia.com/the-watch-co/product?sort=8)
+2023-03-19 23:17:35 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:17:35 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8068,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 13271,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 5.32233,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 17, 35, 57133),
+ 'httpcompression/response_bytes': 118676,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 5,
+ 'log_count/INFO': 10,
+ 'memusage/max': 63102976,
+ 'memusage/startup': 63102976,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 17, 29, 734803)}
+2023-03-19 23:17:35 [scrapy.core.engine] INFO: Spider closed (finished)
+2023-03-19 23:19:10 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:19:10 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:19:10 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 5,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:19:10 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:19:10 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:19:10 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:19:10 [scrapy.extensions.telnet] INFO: Telnet Password: 1a09561a2d8ab123
+2023-03-19 23:19:10 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:19:10 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:19:10 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:19:10 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:19:10 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:19:10 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:19:10 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:19:10 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <POST https://gql.tokopedia.com/graphql> from <POST http://gql.tokopedia.com/graphql>
+2023-03-19 23:19:17 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://gql.tokopedia.com/graphql> (referer: https://www.tokopedia.com/the-watch-co/product?sort=8)
+2023-03-19 23:19:17 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:19:17 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 8068,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 12763,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 6.796977,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 19, 17, 142664),
+ 'httpcompression/response_bytes': 118676,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 5,
+ 'log_count/INFO': 10,
+ 'memusage/max': 63012864,
+ 'memusage/startup': 63012864,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 19, 10, 345687)}
+2023-03-19 23:19:17 [scrapy.core.engine] INFO: Spider closed (finished)
+2023-03-19 23:22:05 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:22:05 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:22:05 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 3,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:22:05 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:22:05 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:22:05 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:22:05 [scrapy.extensions.telnet] INFO: Telnet Password: 05b18c53c7b0890c
+2023-03-19 23:22:05 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:22:06 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:22:06 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:22:06 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:22:06 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:22:06 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:22:06 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:22:06 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <POST https://gql.tokopedia.com/graphql> from <POST http://gql.tokopedia.com/graphql>
+2023-03-19 23:22:09 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://gql.tokopedia.com/graphql> (referer: https://www.tokopedia.com/the-watch-co/product?sort=8)
+2023-03-19 23:22:09 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:22:09 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7376,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 12533,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 3.819182,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 22, 9, 893904),
+ 'httpcompression/response_bytes': 93825,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 5,
+ 'log_count/INFO': 10,
+ 'memusage/max': 63082496,
+ 'memusage/startup': 63082496,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 22, 6, 74722)}
+2023-03-19 23:22:09 [scrapy.core.engine] INFO: Spider closed (finished)
+2023-03-19 23:22:19 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:22:19 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:22:19 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 3,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:22:19 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:22:19 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:22:19 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:22:19 [scrapy.extensions.telnet] INFO: Telnet Password: 11fe2bca2c94e4ce
+2023-03-19 23:22:19 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:22:19 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:22:19 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:22:19 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:22:19 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:22:19 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:22:19 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:22:19 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <POST https://gql.tokopedia.com/graphql> from <POST http://gql.tokopedia.com/graphql>
+2023-03-19 23:22:23 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://gql.tokopedia.com/graphql> (referer: https://www.tokopedia.com/the-watch-co/product?sort=8)
+2023-03-19 23:22:24 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:22:24 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7376,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 12083,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 4.626614,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 22, 24, 54750),
+ 'httpcompression/response_bytes': 93825,
+ 'httpcompression/response_count': 1,
+ 'log_count/DEBUG': 5,
+ 'log_count/INFO': 10,
+ 'memusage/max': 62996480,
+ 'memusage/startup': 62996480,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 22, 19, 428136)}
+2023-03-19 23:22:24 [scrapy.core.engine] INFO: Spider closed (finished)
+2023-03-19 23:40:41 [scrapy.utils.log] INFO: Scrapy 2.8.0 started (bot: tokopedia)
+2023-03-19 23:40:41 [scrapy.utils.log] INFO: Versions: lxml 4.9.2.0, libxml2 2.9.14, cssselect 1.2.0, parsel 1.7.0, w3lib 2.1.1, Twisted 22.10.0, Python 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0], pyOpenSSL 23.0.0 (OpenSSL 3.0.8 7 Feb 2023), cryptography 39.0.2, Platform Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-glibc2.35
+2023-03-19 23:40:41 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'tokopedia',
+ 'DOWNLOAD_DELAY': 4,
+ 'FEED_EXPORT_ENCODING': 'utf-8',
+ 'LOG_FILE': 'gqltokped.txt',
+ 'NEWSPIDER_MODULE': 'tokopedia.spiders',
+ 'REQUEST_FINGERPRINTER_IMPLEMENTATION': '2.7',
+ 'SPIDER_MODULES': ['tokopedia.spiders'],
+ 'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
+2023-03-19 23:40:41 [asyncio] DEBUG: Using selector: EpollSelector
+2023-03-19 23:40:41 [scrapy.utils.log] DEBUG: Using reactor: twisted.internet.asyncioreactor.AsyncioSelectorReactor
+2023-03-19 23:40:41 [scrapy.utils.log] DEBUG: Using asyncio event loop: asyncio.unix_events._UnixSelectorEventLoop
+2023-03-19 23:40:41 [scrapy.extensions.telnet] INFO: Telnet Password: b09cad67690be7da
+2023-03-19 23:40:41 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.feedexport.FeedExporter',
+ 'scrapy.extensions.logstats.LogStats']
+2023-03-19 23:40:41 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2023-03-19 23:40:41 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2023-03-19 23:40:41 [scrapy.middleware] INFO: Enabled item pipelines:
+[]
+2023-03-19 23:40:41 [scrapy.core.engine] INFO: Spider opened
+2023-03-19 23:40:41 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2023-03-19 23:40:41 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2023-03-19 23:40:42 [scrapy.downloadermiddlewares.redirect] DEBUG: Redirecting (301) to <POST https://gql.tokopedia.com/graphql> from <POST http://gql.tokopedia.com/graphql>
+2023-03-19 23:40:45 [scrapy.core.engine] DEBUG: Crawled (200) <POST https://gql.tokopedia.com/graphql> (referer: https://www.tokopedia.com/the-watch-co/product?sort=8)
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex M79 Automatic 40mm Black dial & Blue Top Ring', 'product_id': '2200970809', 'price': 'Rp 2.114.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Abstract Florals Midi Rose Gold OB16VM11', 'product_id': '523020833', 'price': 'Rp 2.250.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Q Timex Diver inspired SST Case Black Dial SST Band', 'product_id': '1206331287', 'price': 'Rp 1.664.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Fine Art Midi Dial Black & Rose Gold OB16WG68', 'product_id': '609539339', 'price': 'Rp 1.550.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Melrose 28mm - 04.CPMW28.0001', 'product_id': '2051725874', 'price': 'Rp 2.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Q Timex Reissue 38mm Stainless Steel Bracelet TW2U61800', 'product_id': '2746776977', 'price': 'Rp 1.849.500'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Watercolour Florals Midi Rose Gold OB16PP39', 'product_id': '590763185', 'price': 'Rp 2.250.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex M79 Automatic 40mm Stainless Steel TW2U83400', 'product_id': '2757471249', 'price': 'Rp 2.114.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Quadro 20X26 Pressed Melrose RG White - DW00100431', 'product_id': '2028449474', 'price': 'Rp 3.270.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Timex X Footurama - TWLB33100', 'product_id': '707866090', 'price': 'Rp 1.139.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Timex Digital Marathon TW5K94600 Original', 'product_id': '563832030', 'price': 'Rp 599.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Mini White MOP Dial Sparkle Markers OB16MN05', 'product_id': '2348772131', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Q Timex Diver inspired SST Case White Dial SST Band', 'product_id': '1206371430', 'price': 'Rp 1.664.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Melrose Black 28mm', 'product_id': '1030349313', 'price': 'Rp 2.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Q Diver Inspired SST Case Blue Dial SST TW2U61100', 'product_id': '1681902565', 'price': 'Rp 1.664.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex M79 Automatic 40mm Stainless Steel TW2U78300', 'product_id': '1402960640', 'price': 'Rp 2.114.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton White Dial Rose Gold Mesh OB16MDW01', 'product_id': '421043762', 'price': 'Rp 2.250.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Q Diver Inspired SST Case Black Dial Band TW2U61300', 'product_id': '2192339124', 'price': 'Rp 1.849.500'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Terrazzo Florals Demi Dial Eco Light Grey', 'product_id': '590832669', 'price': 'Rp 1.631.250'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Quadro 20X26 Pressed Sheffield RG White - DW00100434', 'product_id': '2028513772', 'price': 'Rp 2.850.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Celestial Demi Rose Gold Boucle OB16GD33', 'product_id': '590792467', 'price': 'Rp 1.743.750'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Essex Ave Thin 40mm Silvertone Case Blue Dial SST', 'product_id': '5389378329', 'price': 'Rp 1.199.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Quadro 20x26 Pressed Sheffield Black - DW00100435', 'product_id': '2028525901', 'price': 'Rp 2.850.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Bejewelled White Midi Dial Rose Gold OB16BJ02', 'product_id': '609525761', 'price': 'Rp 2.875.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Waterbury Classic Chrono 40mm SST Case Navy TW2U04700', 'product_id': '6709169339', 'price': 'Rp 1.559.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Timex The Waterbury Chronograph Tw2P84300', 'product_id': '617324718', 'price': 'Rp 1.889.300'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Glitter Dial 3D Bee Pale & RG OB16GD46', 'product_id': '590668292', 'price': 'Rp 3.230.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Meant To Bee Mini Blush MOP Rose Gold Boucle', 'product_id': '2698613513', 'price': 'Rp 2.775.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite St. Mawes Black Rose Gold 28mm', 'product_id': '2174711725', 'price': 'Rp 2.560.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Petite 24 Pressed Melrose Rose Gold White DW00100447', 'product_id': '2028651139', 'price': 'Rp 2.850.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Quadro 20X26 Pressed Melrose RG Black - DW00100432', 'product_id': '2028455962', 'price': 'Rp 3.270.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Mini Blush 3D Bee Rose Gold Bracelet OB16MC5', 'product_id': '596071083', 'price': 'Rp 3.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Petite Unitone 32 RG Rose Gold DW00100471', 'product_id': '2491517643', 'price': 'Rp 3.420.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Iconic Motion (10 ATM) 40 Rose Gold Black DW00100425', 'product_id': '2030632751', 'price': 'Rp 4.280.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Petite 24 Sheffield Rose Gold Black - DW00100444', 'product_id': '2028628082', 'price': 'Rp 2.560.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex x Orbit Gear - TWLB32100', 'product_id': '4584707631', 'price': 'Rp 1.612.800'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Q Diver Inspired Black Case Black Dial TW2U61600', 'product_id': '3322913454', 'price': 'Rp 1.664.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Olivia Burton Lucky Bee Demi Grey Dial OB16FB10', 'product_id': '753375146', 'price': 'Rp 3.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Celestial Matte Black Boucle Mesh & Silver OB16GD16', 'product_id': '609528366', 'price': 'Rp 2.250.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Petite 24 Sheffield RG White - DW00100443', 'product_id': '2028606871', 'price': 'Rp 2.560.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex DGTL 45mm Black Resin Strap TW5M41400', 'product_id': '4762929291', 'price': 'Rp 449.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton The England Demi Pale Gold OB16EN13', 'product_id': '3598427409', 'price': 'Rp 2.175.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Sparkle Butterfly Midi Blush MOP Butterflies', 'product_id': '2698828953', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Celestial Black MOP Dial OB16GD80', 'product_id': '2348719086', 'price': 'Rp 2.103.750'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Daniel Wellington Quadro 20X26 Pressed Ashfield RG Black', 'product_id': '2028460882', 'price': 'Rp 3.270.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Melrose 32mm - 04.CPMW.0001', 'product_id': '2047300663', 'price': 'Rp 3.130.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Midi White Glitter Dial Rose Gold Boucle Mesh', 'product_id': '1516485990', 'price': 'Rp 1.976.250'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Sparkle Florals Demi Mother of Pearl&Rose Gold Mesh', 'product_id': '1213615525', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Waterbury Traditional Day Date 39mm SST Blue Dial TW2U90400', 'product_id': '3322981914', 'price': 'Rp 1.349.500'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Waterbury Traditional Chronograph 42mm TW2U90700', 'product_id': '2757493224', 'price': 'Rp 1.599.500'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Essex Ave Thin 40mm Silver-tone Case SST TW2U42500', 'product_id': '2746116540', 'price': 'Rp 1.199.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Navi XL Automatic 41mm Leather Strap Watch TW2U10000', 'product_id': '2746074252', 'price': 'Rp 2.069.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Secret Garden Mini Dial RG Boucle OB16FS105', 'product_id': '2698693824', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite St. Mawes Black 32mm Rose Gold', 'product_id': '2174727862', 'price': 'Rp 2.850.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Ashfield Black Rose Gold 28mm', 'product_id': '2156661525', 'price': 'Rp 2.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Strap Nato Cornwall Rose Gold - 04.MCNS.0017', 'product_id': '2148592432', 'price': 'Rp 560.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Quadro 20X26 Pressed Sterling S White - DW00100438', 'product_id': '2028519317', 'price': 'Rp 3.270.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Mini White Wonderland Silver & Rose Gold Bracelet', 'product_id': '1517281119', 'price': 'Rp 2.250.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Ashfield Black Rose Gold 32mm', 'product_id': '1030327838', 'price': 'Rp 3.130.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Anting Olivia Burton Bejewelled Bee Earrings OBJAME115', 'product_id': '616056119', 'price': 'Rp 588.750'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Queen Bee Black MOP Rose Gold Mesh OB16AM145', 'product_id': '543064026', 'price': 'Rp 3.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Midi Silver Gold Clear Crystals OB16WD107', 'product_id': '3598554161', 'price': 'Rp 2.775.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Mini White MOP Sparkle Markers Silver Boucle', 'product_id': '2348760154', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Cornwall Black Rose Gold 28mm', 'product_id': '2156519850', 'price': 'Rp 2.130.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria D1 Milano Polycarbon 2019 Black with IP Gun Bezel', 'product_id': '617208079', 'price': 'Rp 2.295.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': "Jam Tangan Timex Men's Briarwood 40mm Silvertone Expansion TW2T46100", 'product_id': '6381762246', 'price': 'Rp 779.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Mini Rose Gold MOP Sparkle Markers OB16MN10', 'product_id': '3598463463', 'price': 'Rp 3.000.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Fairfield Supernova Chronograph TW2R97700', 'product_id': '2779017436', 'price': 'Rp 1.169.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Gunmetal Glitter Demi Dial & Mesh OB16GD49', 'product_id': '2368072744', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Black Sheffield 40mm Rose Gold 04.WCBLW.0007', 'product_id': '2233847775', 'price': 'Rp 3.990.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Daniel Wellington Classic St. Mawes 40mm Rose Gold', 'product_id': '2221348829', 'price': 'Rp 3.990.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Black Cornwall 40mm Rose Gold 04.MCBNW.0001', 'product_id': '2148816294', 'price': 'Rp 3.270.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Classic Petite Sterling 28mm 04.CPMW28.0002', 'product_id': '2045186166', 'price': 'Rp 2.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Daniel Wellington Iconic Motion (10 ATM) 40 Silver Black DW00100436', 'product_id': '2030861786', 'price': 'Rp 4.280.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Anting Olivia Burton Bejewelled Bee Earrings OBJAME106', 'product_id': '616055375', 'price': 'Rp 588.750'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Pria Timex Waterbury Classic Chrono 40mm TW2T71500 Original', 'product_id': '612369838', 'price': 'Rp 1.559.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Wanita Olivia Burton 3D Bee Midi Grey Dial Rose Gold Mesh', 'product_id': '523076328', 'price': 'Rp 3.700.000'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Mens Waterbury Ocean Dark Blue with Dark Blue Dial', 'product_id': '6382887544', 'price': 'Rp 1.259.400'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Timex Expedition Full-Size CAT Black Case TW4B20400', 'product_id': '4749105372', 'price': 'Rp 539.550'}
+2023-03-19 23:40:46 [scrapy.core.scraper] DEBUG: Scraped from <200 https://gql.tokopedia.com/graphql>
+{'name': 'Jam Tangan Olivia Burton Midi Honey Bee Dusty Pink & Silver OB16FB25', 'product_id': '3598150702', 'price': 'Rp 2.475.000'}
+2023-03-19 23:40:46 [scrapy.core.engine] INFO: Closing spider (finished)
+2023-03-19 23:40:46 [scrapy.extensions.feedexport] INFO: Stored csv feed (80 items) in: gqltokped.csv
+2023-03-19 23:40:46 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 7316,
+ 'downloader/request_count': 2,
+ 'downloader/request_method_count/POST': 2,
+ 'downloader/response_bytes': 12062,
+ 'downloader/response_count': 2,
+ 'downloader/response_status_count/200': 1,
+ 'downloader/response_status_count/301': 1,
+ 'elapsed_time_seconds': 4.165469,
+ 'feedexport/success_count/FileFeedStorage': 1,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2023, 3, 19, 16, 40, 46, 91025),
+ 'httpcompression/response_bytes': 93790,
+ 'httpcompression/response_count': 1,
+ 'item_scraped_count': 80,
+ 'log_count/DEBUG': 85,
+ 'log_count/INFO': 11,
+ 'memusage/max': 62930944,
+ 'memusage/startup': 62930944,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 2,
+ 'scheduler/dequeued/memory': 2,
+ 'scheduler/enqueued': 2,
+ 'scheduler/enqueued/memory': 2,
+ 'start_time': datetime.datetime(2023, 3, 19, 16, 40, 41, 925556)}
+2023-03-19 23:40:46 [scrapy.core.engine] INFO: Spider closed (finished)

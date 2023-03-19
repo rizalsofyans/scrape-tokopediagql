@@ -1,0 +1,3857 @@
+"data": {
+  "GetShopProduct": {
+    "status": "",
+    "errors": "",
+    "links": {
+      "prev": "",
+      "next": "https: //ace.tokopedia.com/v1/web-service/shop/get_shop_product?etalase_id=etalase&order_by=8&page=2&per_page=80&shop_id=3355325&user_cityId=178&user_districtId=2289",
+      "__typename": "ShopProductListLink"
+    },
+    "data": [
+      {
+        "name": "Jam Tangan Timex M79 Automatic 40mm Black dial & Blue Top Ring",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-m79-automatic-40mm-black-dial-blue-top-ring?extParam=whid%3D2635346",
+        "product_id": "2200970809",
+        "price": {
+          "text_idr": "Rp 2.114.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/dbc15441-5233-492b-a3cc-2b65d9f2ca45.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/dbc15441-5233-492b-a3cc-2b65d9f2ca45.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/dbc15441-5233-492b-a3cc-2b65d9f2ca45.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 4.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 50+",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/13/fb9ce817-a6bc-43ec-b8d6-0b47e872b2a0.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 30,
+          "rating": 97
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Abstract Florals Midi Rose Gold OB16VM11",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-abstract-florals-midi-rose-gold-ob16vm11?extParam=whid%3D2635346",
+        "product_id": "523020833",
+        "price": {
+          "text_idr": "Rp 2.250.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/89b2f811-b70f-4716-9a1d-43b3ee297fdb.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/89b2f811-b70f-4716-9a1d-43b3ee297fdb.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/89b2f811-b70f-4716-9a1d-43b3ee297fdb.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 40+",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 31,
+          "rating": 98
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Q Timex Diver inspired SST Case Black Dial SST Band",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-q-timex-diver-inspired-sst-case-black-dial-sst-band?extParam=whid%3D2635346",
+        "product_id": "1206331287",
+        "price": {
+          "text_idr": "Rp 1.664.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/844dddfd-4f1e-4b10-9f56-33931f14eac7.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/22/844dddfd-4f1e-4b10-9f56-33931f14eac7.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/844dddfd-4f1e-4b10-9f56-33931f14eac7.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 40+",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2022/11/24/d5a7332f-5302-4946-a017-d61271c32f48.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 18,
+          "rating": 98
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Fine Art Midi Dial Black & Rose Gold OB16WG68",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-fine-art-midi-dial-black-rose-gold-ob16wg68?extParam=whid%3D2635346",
+        "product_id": "609539339",
+        "price": {
+          "text_idr": "Rp 1.550.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/2d3a642e-9f79-4926-ba98-cce0714c4c80.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/2d3a642e-9f79-4926-ba98-cce0714c4c80.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/2d3a642e-9f79-4926-ba98-cce0714c4c80.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 40+",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 21,
+          "rating": 99
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Melrose 28mm - 04.CPMW28.0001",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-melrose-28mm-04-cpmw28-0001?extParam=whid%3D2635346",
+        "product_id": "2051725874",
+        "price": {
+          "text_idr": "Rp 2.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/cfe73e27-f86e-4733-8ab7-32907912e6ef.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/cfe73e27-f86e-4733-8ab7-32907912e6ef.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/cfe73e27-f86e-4733-8ab7-32907912e6ef.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 30+",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 19,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Q Timex Reissue 38mm Stainless Steel Bracelet TW2U61800",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-q-timex-reissue-38mm-stainless-steel-bracelet-tw2u61800?extParam=whid%3D2635346",
+        "product_id": "2746776977",
+        "price": {
+          "text_idr": "Rp 1.849.500"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/1875fe1d-540b-4b48-9714-ffcc7d8d1251.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/1875fe1d-540b-4b48-9714-ffcc7d8d1251.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/1875fe1d-540b-4b48-9714-ffcc7d8d1251.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "50",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 30+",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2022/11/24/d5a7332f-5302-4946-a017-d61271c32f48.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 17,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Watercolour Florals Midi Rose Gold OB16PP39",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-watercolour-florals-midi-rose-gold-ob16pp39?extParam=whid%3D2635346",
+        "product_id": "590763185",
+        "price": {
+          "text_idr": "Rp 2.250.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/9cc89eb9-4168-4f18-872e-9e47bfe9625a.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/8/9cc89eb9-4168-4f18-872e-9e47bfe9625a.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/9cc89eb9-4168-4f18-872e-9e47bfe9625a.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 30+",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 17,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex M79 Automatic 40mm Stainless Steel TW2U83400",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-m79-automatic-40mm-stainless-steel-tw2u83400?extParam=whid%3D2635346",
+        "product_id": "2757471249",
+        "price": {
+          "text_idr": "Rp 2.114.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/7e2b3b28-f790-4b11-9f80-9e6a4f351816.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/7e2b3b28-f790-4b11-9f80-9e6a4f351816.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/7e2b3b28-f790-4b11-9f80-9e6a4f351816.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 4.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 30+",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 11,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Quadro 20X26 Pressed Melrose RG White - DW00100431",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-quadro-20x26-pressed-melrose-rg-white-dw00100431?extParam=whid%3D2635346",
+        "product_id": "2028449474",
+        "price": {
+          "text_idr": "Rp 3.270.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/8/28/c47ee113-efd0-4a98-bc23-b97a61840144.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/28/c47ee113-efd0-4a98-bc23-b97a61840144.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/8/28/c47ee113-efd0-4a98-bc23-b97a61840144.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 29",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 14,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Timex X Footurama - TWLB33100",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-timex-x-footurama-twlb33100?extParam=whid%3D2635346",
+        "product_id": "707866090",
+        "price": {
+          "text_idr": "Rp 1.139.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/8d9ddb8b-ee1f-45d9-8ff0-69c125e5605c.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/22/8d9ddb8b-ee1f-45d9-8ff0-69c125e5605c.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/8d9ddb8b-ee1f-45d9-8ff0-69c125e5605c.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 1.899.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 28",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 14,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Timex Digital Marathon TW5K94600 Original",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-timex-digital-marathon-tw5k94600-original?extParam=whid%3D2635346",
+        "product_id": "563832030",
+        "price": {
+          "text_idr": "Rp 599.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/593f674b-d469-4132-90d9-8df02efa04a1.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/7/593f674b-d469-4132-90d9-8df02efa04a1.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/593f674b-d469-4132-90d9-8df02efa04a1.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 999.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 26",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2022/11/24/d5a7332f-5302-4946-a017-d61271c32f48.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 15,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Mini White MOP Dial Sparkle Markers OB16MN05",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-mini-white-mop-dial-sparkle-markers-ob16mn05?extParam=whid%3D2635346",
+        "product_id": "2348772131",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/233797a7-a94b-4a9e-9deb-b60dbfcb9e0a.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/233797a7-a94b-4a9e-9deb-b60dbfcb9e0a.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/233797a7-a94b-4a9e-9deb-b60dbfcb9e0a.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 25",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 19,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Q Timex Diver inspired SST Case White Dial SST Band",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-q-timex-diver-inspired-sst-case-white-dial-sst-band?extParam=whid%3D2635346",
+        "product_id": "1206371430",
+        "price": {
+          "text_idr": "Rp 1.664.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/2ad108c9-7005-43fc-8353-7dfcf95ce601.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/22/2ad108c9-7005-43fc-8353-7dfcf95ce601.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/2ad108c9-7005-43fc-8353-7dfcf95ce601.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 22",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 12,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Melrose Black 28mm",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-melrose-black-28mm?extParam=whid%3D2635346",
+        "product_id": "1030349313",
+        "price": {
+          "text_idr": "Rp 2.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/1ad70a84-046f-43d0-8af8-fc64f477b9f3.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/1ad70a84-046f-43d0-8af8-fc64f477b9f3.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/1ad70a84-046f-43d0-8af8-fc64f477b9f3.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 22",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 9,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Q Diver Inspired SST Case Blue Dial SST TW2U61100",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-q-diver-inspired-sst-case-blue-dial-sst-tw2u61100?extParam=whid%3D2635346",
+        "product_id": "1681902565",
+        "price": {
+          "text_idr": "Rp 1.664.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/ebf2490b-997a-45f1-99c1-77c2399c0b08.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/22/ebf2490b-997a-45f1-99c1-77c2399c0b08.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/22/ebf2490b-997a-45f1-99c1-77c2399c0b08.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 21",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 13,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex M79 Automatic 40mm Stainless Steel TW2U78300",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-m79-automatic-40mm-stainless-steel-tw2u78300?extParam=whid%3D2635346",
+        "product_id": "1402960640",
+        "price": {
+          "text_idr": "Rp 2.114.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/ad771abe-a1dc-4c96-ade6-0aae1a6f7502.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/ad771abe-a1dc-4c96-ade6-0aae1a6f7502.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/ad771abe-a1dc-4c96-ade6-0aae1a6f7502.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 4.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 21",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton White Dial Rose Gold Mesh OB16MDW01",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-white-dial-rose-gold-mesh-ob16mdw01?extParam=whid%3D2635346",
+        "product_id": "421043762",
+        "price": {
+          "text_idr": "Rp 2.250.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/ea1da2ab-b215-4dee-b6b4-bf0ffb58cc30.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/ea1da2ab-b215-4dee-b6b4-bf0ffb58cc30.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/ea1da2ab-b215-4dee-b6b4-bf0ffb58cc30.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 21",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 10,
+          "rating": 96
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Q Diver Inspired SST Case Black Dial Band TW2U61300",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-q-diver-inspired-sst-case-black-dial-band-tw2u61300?extParam=whid%3D2635346",
+        "product_id": "2192339124",
+        "price": {
+          "text_idr": "Rp 1.849.500"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/20/5bf7db94-3d4d-4aa0-8634-709093660a27.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/20/5bf7db94-3d4d-4aa0-8634-709093660a27.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/20/5bf7db94-3d4d-4aa0-8634-709093660a27.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "50",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 20",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 12,
+          "rating": 96
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Terrazzo Florals Demi Dial Eco Light Grey",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-terrazzo-florals-demi-dial-eco-light-grey?extParam=whid%3D2635346",
+        "product_id": "590832669",
+        "price": {
+          "text_idr": "Rp 1.631.250"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/ab9c77a0-b5c1-4fd4-b559-4a24ffe94e77.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/ab9c77a0-b5c1-4fd4-b559-4a24ffe94e77.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/ab9c77a0-b5c1-4fd4-b559-4a24ffe94e77.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "25",
+          "original_price_fmt": "Rp 2.175.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 19",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 8,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Quadro 20X26 Pressed Sheffield RG White - DW00100434",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-quadro-20x26-pressed-sheffield-rg-white-dw00100434?extParam=whid%3D2635346",
+        "product_id": "2028513772",
+        "price": {
+          "text_idr": "Rp 2.850.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/0734e11f-5847-4f36-a785-ce84ea15d080.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/3/28/0734e11f-5847-4f36-a785-ce84ea15d080.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/0734e11f-5847-4f36-a785-ce84ea15d080.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 18",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 13,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Celestial Demi Rose Gold Boucle OB16GD33",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-celestial-demi-rose-gold-boucle-ob16gd33?extParam=whid%3D2635346",
+        "product_id": "590792467",
+        "price": {
+          "text_idr": "Rp 1.743.750"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/a21a8f56-bf33-4602-95d0-ca5bf56abb56.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/a21a8f56-bf33-4602-95d0-ca5bf56abb56.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/a21a8f56-bf33-4602-95d0-ca5bf56abb56.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "25",
+          "original_price_fmt": "Rp 2.325.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 18",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 10,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Essex Ave Thin 40mm Silvertone Case Blue Dial SST",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-essex-ave-thin-40mm-silvertone-case-blue-dial-sst?extParam=whid%3D2635346",
+        "product_id": "5389378329",
+        "price": {
+          "text_idr": "Rp 1.199.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/1de337da-f569-4c80-a023-46c293fb2adb.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/7/1de337da-f569-4c80-a023-46c293fb2adb.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/1de337da-f569-4c80-a023-46c293fb2adb.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 1.999.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 17",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 7,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Quadro 20x26 Pressed Sheffield Black - DW00100435",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-quadro-20x26-pressed-sheffield-black-dw00100435?extParam=whid%3D2635346",
+        "product_id": "2028525901",
+        "price": {
+          "text_idr": "Rp 2.850.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/342cd28e-e7d4-4838-8141-02f92dc7533d.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/14/342cd28e-e7d4-4838-8141-02f92dc7533d.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/342cd28e-e7d4-4838-8141-02f92dc7533d.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 17",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 11,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Bejewelled White Midi Dial Rose Gold OB16BJ02",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-bejewelled-white-midi-dial-rose-gold-ob16bj02?extParam=whid%3D2635346",
+        "product_id": "609525761",
+        "price": {
+          "text_idr": "Rp 2.875.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/473b4540-338b-4d52-826d-34b353bc384b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/473b4540-338b-4d52-826d-34b353bc384b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/473b4540-338b-4d52-826d-34b353bc384b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 16",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 8,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Waterbury Classic Chrono 40mm SST Case Navy TW2U04700",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-waterbury-classic-chrono-40mm-sst-case-navy-tw2u04700?extParam=whid%3D2635346",
+        "product_id": "6709169339",
+        "price": {
+          "text_idr": "Rp 1.559.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/5213eefc-8154-412f-9834-bab4d8496c36.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/7/5213eefc-8154-412f-9834-bab4d8496c36.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/7/5213eefc-8154-412f-9834-bab4d8496c36.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 2.599.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 15",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2022/11/24/d5a7332f-5302-4946-a017-d61271c32f48.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 9,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Timex The Waterbury Chronograph Tw2P84300",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-timex-the-waterbury-chronograph-tw2p84300?extParam=whid%3D2635346",
+        "product_id": "617324718",
+        "price": {
+          "text_idr": "Rp 1.889.300"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/5fb5d06a-86d0-4080-a197-b478b1f40d85.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/5fb5d06a-86d0-4080-a197-b478b1f40d85.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/5fb5d06a-86d0-4080-a197-b478b1f40d85.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "30",
+          "original_price_fmt": "Rp 2.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 15",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 8,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Glitter Dial 3D Bee Pale & RG OB16GD46",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-glitter-dial-3d-bee-pale-rg-ob16gd46?extParam=whid%3D2635346",
+        "product_id": "590668292",
+        "price": {
+          "text_idr": "Rp 3.230.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/347ec860-b2ec-4bb9-9355-a752070183a7.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/347ec860-b2ec-4bb9-9355-a752070183a7.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/347ec860-b2ec-4bb9-9355-a752070183a7.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "15",
+          "original_price_fmt": "Rp 3.800.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 15",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 8,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Meant To Bee Mini Blush MOP Rose Gold Boucle",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-meant-to-bee-mini-blush-mop-rose-gold-boucle?extParam=whid%3D2635346",
+        "product_id": "2698613513",
+        "price": {
+          "text_idr": "Rp 2.775.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/4995468d-6fca-4e41-8524-281952002d9b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/4995468d-6fca-4e41-8524-281952002d9b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/4995468d-6fca-4e41-8524-281952002d9b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 14",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 10,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite St. Mawes Black Rose Gold 28mm",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-st-mawes-black-rose-gold-28mm?extParam=whid%3D2635346",
+        "product_id": "2174711725",
+        "price": {
+          "text_idr": "Rp 2.560.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/e23b1d18-51a5-4aad-bf0f-c3498ec112f6.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/e23b1d18-51a5-4aad-bf0f-c3498ec112f6.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/e23b1d18-51a5-4aad-bf0f-c3498ec112f6.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 14",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 9,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Petite 24 Pressed Melrose Rose Gold White DW00100447",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-petite-24-pressed-melrose-rose-gold-white-dw00100447?extParam=whid%3D2635346",
+        "product_id": "2028651139",
+        "price": {
+          "text_idr": "Rp 2.850.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/27863591-099d-4f87-875e-5f09b669aad2.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/14/27863591-099d-4f87-875e-5f09b669aad2.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/27863591-099d-4f87-875e-5f09b669aad2.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 14",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 9,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Quadro 20X26 Pressed Melrose RG Black - DW00100432",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-quadro-20x26-pressed-melrose-rg-black-dw00100432?extParam=whid%3D2635346",
+        "product_id": "2028455962",
+        "price": {
+          "text_idr": "Rp 3.270.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/8/28/b20fd672-b4b7-425a-9230-84d6799fd619.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/28/b20fd672-b4b7-425a-9230-84d6799fd619.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/8/28/b20fd672-b4b7-425a-9230-84d6799fd619.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 13",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 96
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Mini Blush 3D Bee Rose Gold Bracelet OB16MC5",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-mini-blush-3d-bee-rose-gold-bracelet-ob16mc5?extParam=whid%3D2635346",
+        "product_id": "596071083",
+        "price": {
+          "text_idr": "Rp 3.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/81854bbf-d423-44a6-bc1e-73139339915d.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/81854bbf-d423-44a6-bc1e-73139339915d.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/81854bbf-d423-44a6-bc1e-73139339915d.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 13",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 7,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Petite Unitone 32 RG Rose Gold DW00100471",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-petite-unitone-32-rg-rose-gold-dw00100471?extParam=whid%3D2635346",
+        "product_id": "2491517643",
+        "price": {
+          "text_idr": "Rp 3.420.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/b00b5f06-3c42-4a47-909c-4995417f27ea.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/3/28/b00b5f06-3c42-4a47-909c-4995417f27ea.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/b00b5f06-3c42-4a47-909c-4995417f27ea.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 12",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 93
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Iconic Motion (10 ATM) 40 Rose Gold Black DW00100425",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-iconic-motion-10-atm-40-rose-gold-black-dw00100425?extParam=whid%3D2635346",
+        "product_id": "2030632751",
+        "price": {
+          "text_idr": "Rp 4.280.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/6200410c-ad54-437c-a681-316883b0f665.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/6200410c-ad54-437c-a681-316883b0f665.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/6200410c-ad54-437c-a681-316883b0f665.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 12",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Petite 24 Sheffield Rose Gold Black - DW00100444",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-petite-24-sheffield-rose-gold-black-dw00100444?extParam=whid%3D2635346",
+        "product_id": "2028628082",
+        "price": {
+          "text_idr": "Rp 2.560.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/96c935e8-7dc9-4a02-9204-974eae77e895.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/14/96c935e8-7dc9-4a02-9204-974eae77e895.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/96c935e8-7dc9-4a02-9204-974eae77e895.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 12",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 96
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex x Orbit Gear - TWLB32100",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-x-orbit-gear-twlb32100?extParam=whid%3D2635346",
+        "product_id": "4584707631",
+        "price": {
+          "text_idr": "Rp 1.612.800"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/ac3c9c5e-3703-40fc-a7a9-7a4702e2135c.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/8/ac3c9c5e-3703-40fc-a7a9-7a4702e2135c.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/ac3c9c5e-3703-40fc-a7a9-7a4702e2135c.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 2.688.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 11",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 93
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Q Diver Inspired Black Case Black Dial TW2U61600",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-q-diver-inspired-black-case-black-dial-tw2u61600?extParam=whid%3D2635346",
+        "product_id": "3322913454",
+        "price": {
+          "text_idr": "Rp 1.664.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/57ee8f94-57a9-462a-b707-495c4734ee5f.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/57ee8f94-57a9-462a-b707-495c4734ee5f.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/57ee8f94-57a9-462a-b707-495c4734ee5f.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 3.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 11",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 7,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Olivia Burton Lucky Bee Demi Grey Dial OB16FB10",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-olivia-burton-lucky-bee-demi-grey-dial-ob16fb10?extParam=whid%3D2635346",
+        "product_id": "753375146",
+        "price": {
+          "text_idr": "Rp 3.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/dea438fb-e9f8-43d5-902c-58ddba661ead.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/dea438fb-e9f8-43d5-902c-58ddba661ead.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/dea438fb-e9f8-43d5-902c-58ddba661ead.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 11",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 7,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Celestial Matte Black Boucle Mesh & Silver OB16GD16",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-celestial-matte-black-boucle-mesh-silver-ob16gd16?extParam=whid%3D2635346",
+        "product_id": "609528366",
+        "price": {
+          "text_idr": "Rp 2.250.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/422bc72b-c22b-42fc-a0b9-c49e6a658850.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/9/422bc72b-c22b-42fc-a0b9-c49e6a658850.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/422bc72b-c22b-42fc-a0b9-c49e6a658850.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 11",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 96
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Petite 24 Sheffield RG White - DW00100443",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-petite-24-sheffield-rg-white-dw00100443?extParam=whid%3D2635346",
+        "product_id": "2028606871",
+        "price": {
+          "text_idr": "Rp 2.560.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/f96a178a-a436-4825-a01e-2bbc2e294306.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/14/f96a178a-a436-4825-a01e-2bbc2e294306.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/f96a178a-a436-4825-a01e-2bbc2e294306.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 10",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 7,
+          "rating": 97
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex DGTL 45mm Black Resin Strap TW5M41400",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-dgtl-45mm-black-resin-strap-tw5m41400?extParam=whid%3D2635346",
+        "product_id": "4762929291",
+        "price": {
+          "text_idr": "Rp 449.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/bd87a516-fca9-434a-9453-af146c9745ba.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/8/bd87a516-fca9-434a-9453-af146c9745ba.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/bd87a516-fca9-434a-9453-af146c9745ba.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 999.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 9",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 80
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton The England Demi Pale Gold OB16EN13",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-the-england-demi-pale-gold-ob16en13?extParam=whid%3D2635346",
+        "product_id": "3598427409",
+        "price": {
+          "text_idr": "Rp 2.175.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/8beca855-d747-4067-86b3-f1e7e994c912.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/8beca855-d747-4067-86b3-f1e7e994c912.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/8beca855-d747-4067-86b3-f1e7e994c912.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 9",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Sparkle Butterfly Midi Blush MOP Butterflies",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-sparkle-butterfly-midi-blush-mop-butterflies?extParam=whid%3D2635346",
+        "product_id": "2698828953",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/6f24e352-123a-409a-979b-3192e8c2a5c6.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/6f24e352-123a-409a-979b-3192e8c2a5c6.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/6f24e352-123a-409a-979b-3192e8c2a5c6.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 9",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 6,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Celestial Black MOP Dial OB16GD80",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-celestial-black-mop-dial-ob16gd80?extParam=whid%3D2635346",
+        "product_id": "2348719086",
+        "price": {
+          "text_idr": "Rp 2.103.750"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/8b15edca-8610-4299-ae51-639ded0aabe2.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/8b15edca-8610-4299-ae51-639ded0aabe2.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/8b15edca-8610-4299-ae51-639ded0aabe2.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "15",
+          "original_price_fmt": "Rp 2.475.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 9",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Daniel Wellington Quadro 20X26 Pressed Ashfield RG Black",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-daniel-wellington-quadro-20x26-pressed-ashfield-rg-black?extParam=whid%3D2635346",
+        "product_id": "2028460882",
+        "price": {
+          "text_idr": "Rp 3.270.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/916a31f5-1f52-4bb1-a14f-900ed7e6a48a.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/3/28/916a31f5-1f52-4bb1-a14f-900ed7e6a48a.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/916a31f5-1f52-4bb1-a14f-900ed7e6a48a.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 9",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Melrose 32mm - 04.CPMW.0001",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-melrose-32mm-04-cpmw-0001?extParam=whid%3D2635346",
+        "product_id": "2047300663",
+        "price": {
+          "text_idr": "Rp 3.130.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0442c18a-70a7-42a8-b5fc-6ac44adfb55f.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/0442c18a-70a7-42a8-b5fc-6ac44adfb55f.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0442c18a-70a7-42a8-b5fc-6ac44adfb55f.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 8",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Midi White Glitter Dial Rose Gold Boucle Mesh",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-midi-white-glitter-dial-rose-gold-boucle-mesh?extParam=whid%3D2635346",
+        "product_id": "1516485990",
+        "price": {
+          "text_idr": "Rp 1.976.250"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/97f379b2-dc00-42d3-93a9-c669442d6160.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/97f379b2-dc00-42d3-93a9-c669442d6160.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/97f379b2-dc00-42d3-93a9-c669442d6160.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "15",
+          "original_price_fmt": "Rp 2.325.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 8",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Sparkle Florals Demi Mother of Pearl&Rose Gold Mesh",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-sparkle-florals-demi-mother-of-pearl-rose-gold-mesh?extParam=whid%3D2635346",
+        "product_id": "1213615525",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/74ac10e7-d7e6-47de-92e7-ba1782b8cff6.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/74ac10e7-d7e6-47de-92e7-ba1782b8cff6.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/74ac10e7-d7e6-47de-92e7-ba1782b8cff6.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 8",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Waterbury Traditional Day Date 39mm SST Blue Dial TW2U90400",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-waterbury-traditional-day-date-39mm-sst-blue-dial-tw2u90400?extParam=whid%3D2635346",
+        "product_id": "3322981914",
+        "price": {
+          "text_idr": "Rp 1.349.500"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/ff536c02-a14a-4ae2-a94d-aec8a782e61b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/ff536c02-a14a-4ae2-a94d-aec8a782e61b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/ff536c02-a14a-4ae2-a94d-aec8a782e61b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "50",
+          "original_price_fmt": "Rp 2.699.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Waterbury Traditional Chronograph 42mm TW2U90700",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-waterbury-traditional-chronograph-42mm-tw2u90700?extParam=whid%3D2635346",
+        "product_id": "2757493224",
+        "price": {
+          "text_idr": "Rp 1.599.500"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/575a87d7-0ab7-4b3c-adb4-998e49e33b73.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/575a87d7-0ab7-4b3c-adb4-998e49e33b73.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/575a87d7-0ab7-4b3c-adb4-998e49e33b73.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "50",
+          "original_price_fmt": "Rp 3.199.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Galeri Fashion",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/13/fb9ce817-a6bc-43ec-b8d6-0b47e872b2a0.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Essex Ave Thin 40mm Silver-tone Case SST TW2U42500",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-essex-ave-thin-40mm-silver-tone-case-sst-tw2u42500?extParam=whid%3D2635346",
+        "product_id": "2746116540",
+        "price": {
+          "text_idr": "Rp 1.199.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/8354625b-8f38-4613-b58b-8bffa353dc10.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/8354625b-8f38-4613-b58b-8bffa353dc10.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/8354625b-8f38-4613-b58b-8bffa353dc10.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 1.999.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Navi XL Automatic 41mm Leather Strap Watch TW2U10000",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-navi-xl-automatic-41mm-leather-strap-watch-tw2u10000?extParam=whid%3D2635346",
+        "product_id": "2746074252",
+        "price": {
+          "text_idr": "Rp 2.069.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/cc9627a7-7788-44da-8781-a86e370b7614.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/cc9627a7-7788-44da-8781-a86e370b7614.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/cc9627a7-7788-44da-8781-a86e370b7614.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 4.599.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Secret Garden Mini Dial RG Boucle OB16FS105",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-secret-garden-mini-dial-rg-boucle-ob16fs105?extParam=whid%3D2635346",
+        "product_id": "2698693824",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/1/6dd49bae-b74b-429f-b826-7ca5f214a97f.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/1/6dd49bae-b74b-429f-b826-7ca5f214a97f.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/1/6dd49bae-b74b-429f-b826-7ca5f214a97f.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite St. Mawes Black 32mm Rose Gold",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-st-mawes-black-32mm-rose-gold?extParam=whid%3D2635346",
+        "product_id": "2174727862",
+        "price": {
+          "text_idr": "Rp 2.850.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/e5d41480-4e83-410e-b153-a266c82117d1.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/e5d41480-4e83-410e-b153-a266c82117d1.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/e5d41480-4e83-410e-b153-a266c82117d1.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Ashfield Black Rose Gold 28mm",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-ashfield-black-rose-gold-28mm?extParam=whid%3D2635346",
+        "product_id": "2156661525",
+        "price": {
+          "text_idr": "Rp 2.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/a7c04c6b-ac09-4bd5-9342-d4a6f101692d.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/a7c04c6b-ac09-4bd5-9342-d4a6f101692d.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/a7c04c6b-ac09-4bd5-9342-d4a6f101692d.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Strap Nato Cornwall Rose Gold - 04.MCNS.0017",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-strap-nato-cornwall-rose-gold-04-mcns-0017?extParam=whid%3D2635346",
+        "product_id": "2148592432",
+        "price": {
+          "text_idr": "Rp 560.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/8/b8fcff27-e8ec-44c1-8817-5ba0ddc7993c.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/8/b8fcff27-e8ec-44c1-8817-5ba0ddc7993c.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/8/b8fcff27-e8ec-44c1-8817-5ba0ddc7993c.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Quadro 20X26 Pressed Sterling S White - DW00100438",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-quadro-20x26-pressed-sterling-s-white-dw00100438?extParam=whid%3D2635346",
+        "product_id": "2028519317",
+        "price": {
+          "text_idr": "Rp 3.270.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/c0d48843-4a6a-4d8f-a90c-348cebd19168.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/14/c0d48843-4a6a-4d8f-a90c-348cebd19168.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/9/14/c0d48843-4a6a-4d8f-a90c-348cebd19168.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Mini White Wonderland Silver & Rose Gold Bracelet",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-mini-white-wonderland-silver-rose-gold-bracelet?extParam=whid%3D2635346",
+        "product_id": "1517281119",
+        "price": {
+          "text_idr": "Rp 2.250.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/79b5a48a-7da7-4c7c-baea-95668df91b03.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/79b5a48a-7da7-4c7c-baea-95668df91b03.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/79b5a48a-7da7-4c7c-baea-95668df91b03.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Ashfield Black Rose Gold 32mm",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-ashfield-black-rose-gold-32mm?extParam=whid%3D2635346",
+        "product_id": "1030327838",
+        "price": {
+          "text_idr": "Rp 3.130.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0b7d6f60-cd40-4f16-88b1-dfd41613f62b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/0b7d6f60-cd40-4f16-88b1-dfd41613f62b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0b7d6f60-cd40-4f16-88b1-dfd41613f62b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Anting Olivia Burton Bejewelled Bee Earrings OBJAME115",
+        "product_url": "https://www.tokopedia.com/the-watch-co/anting-olivia-burton-bejewelled-bee-earrings-objame115?extParam=whid%3D2635346",
+        "product_id": "616056119",
+        "price": {
+          "text_idr": "Rp 588.750"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/9/18/3355325/3355325_50c98b23-ebfe-4119-a30a-ab4d4cb5557c.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/9/18/3355325/3355325_50c98b23-ebfe-4119-a30a-ab4d4cb5557c.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/9/18/3355325/3355325_50c98b23-ebfe-4119-a30a-ab4d4cb5557c.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "25",
+          "original_price_fmt": "Rp 785.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Queen Bee Black MOP Rose Gold Mesh OB16AM145",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-queen-bee-black-mop-rose-gold-mesh-ob16am145?extParam=whid%3D2635346",
+        "product_id": "543064026",
+        "price": {
+          "text_idr": "Rp 3.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/853430ec-ddfe-43e1-a79b-36d73b732708.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/853430ec-ddfe-43e1-a79b-36d73b732708.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/853430ec-ddfe-43e1-a79b-36d73b732708.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 7",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Midi Silver Gold Clear Crystals OB16WD107",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-midi-silver-gold-clear-crystals-ob16wd107?extParam=whid%3D2635346",
+        "product_id": "3598554161",
+        "price": {
+          "text_idr": "Rp 2.775.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/ad01de59-b298-450e-bcc4-c6915e71bdc0.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/ad01de59-b298-450e-bcc4-c6915e71bdc0.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/ad01de59-b298-450e-bcc4-c6915e71bdc0.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 6",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Mini White MOP Sparkle Markers Silver Boucle",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-mini-white-mop-sparkle-markers-silver-boucle?extParam=whid%3D2635346",
+        "product_id": "2348760154",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/953f5763-4dac-47f7-8111-02509bda6682.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/953f5763-4dac-47f7-8111-02509bda6682.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/953f5763-4dac-47f7-8111-02509bda6682.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 6",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Cornwall Black Rose Gold 28mm",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-cornwall-black-rose-gold-28mm?extParam=whid%3D2635346",
+        "product_id": "2156519850",
+        "price": {
+          "text_idr": "Rp 2.130.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/2975f7b5-623e-4481-b402-ba753c33fdd6.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/2975f7b5-623e-4481-b402-ba753c33fdd6.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/2975f7b5-623e-4481-b402-ba753c33fdd6.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 6",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 95
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria D1 Milano Polycarbon 2019 Black with IP Gun Bezel",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-d1-milano-polycarbon-2019-black-with-ip-gun-bezel?extParam=whid%3D2635346",
+        "product_id": "617208079",
+        "price": {
+          "text_idr": "Rp 2.295.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/3/0204f3eb-4b22-4a60-95dd-8f531bf67f1b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/3/0204f3eb-4b22-4a60-95dd-8f531bf67f1b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/3/0204f3eb-4b22-4a60-95dd-8f531bf67f1b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "15",
+          "original_price_fmt": "Rp 2.700.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 6",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Men's Briarwood 40mm Silvertone Expansion TW2T46100",
+        "product_url": "https: //www.tokopedia.com/the-watch-co/jam-tangan-timex-men-s-briarwood-40mm-silvertone-expansion-tw2t46100?extParam=whid%3D2635346",
+        "product_id": "6381762246",
+        "price": {
+          "text_idr": "Rp 779.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/6716ad3a-e5a1-48b3-8fa4-814df2dedbcb.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/6716ad3a-e5a1-48b3-8fa4-814df2dedbcb.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/6716ad3a-e5a1-48b3-8fa4-814df2dedbcb.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 1.299.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Mini Rose Gold MOP Sparkle Markers OB16MN10",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-mini-rose-gold-mop-sparkle-markers-ob16mn10?extParam=whid%3D2635346",
+        "product_id": "3598463463",
+        "price": {
+          "text_idr": "Rp 3.000.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/7/12/851f3f08-7472-4870-bc6e-140d4c11372f.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/7/12/851f3f08-7472-4870-bc6e-140d4c11372f.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/7/12/851f3f08-7472-4870-bc6e-140d4c11372f.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Fairfield Supernova Chronograph TW2R97700",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-fairfield-supernova-chronograph-tw2r97700?extParam=whid%3D2635346",
+        "product_id": "2779017436",
+        "price": {
+          "text_idr": "Rp 1.169.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/12f3cccc-14d9-48ae-9d83-34a6aa39d9a5.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/4/12f3cccc-14d9-48ae-9d83-34a6aa39d9a5.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/4/12f3cccc-14d9-48ae-9d83-34a6aa39d9a5.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 2.599.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 5,
+          "rating": 84
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Gunmetal Glitter Demi Dial & Mesh OB16GD49",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-gunmetal-glitter-demi-dial-mesh-ob16gd49?extParam=whid%3D2635346",
+        "product_id": "2368072744",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/1/38e0d0b3-8e18-4c60-a18f-429ba1f9d79c.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/4/1/38e0d0b3-8e18-4c60-a18f-429ba1f9d79c.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/4/1/38e0d0b3-8e18-4c60-a18f-429ba1f9d79c.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Black Sheffield 40mm Rose Gold 04.WCBLW.0007",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-black-sheffield-40mm-rose-gold-04-wcblw-0007?extParam=whid%3D2635346",
+        "product_id": "2233847775",
+        "price": {
+          "text_idr": "Rp 3.990.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/feb05030-4990-4b88-90b1-845e125a0473.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/3/28/feb05030-4990-4b88-90b1-845e125a0473.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/3/28/feb05030-4990-4b88-90b1-845e125a0473.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Daniel Wellington Classic St. Mawes 40mm Rose Gold",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-daniel-wellington-classic-st-mawes-40mm-rose-gold?extParam=whid%3D2635346",
+        "product_id": "2221348829",
+        "price": {
+          "text_idr": "Rp 3.990.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/b5d5a1b9-98a7-4e61-9414-95e454e8f3c7.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/b5d5a1b9-98a7-4e61-9414-95e454e8f3c7.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/b5d5a1b9-98a7-4e61-9414-95e454e8f3c7.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 1,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Black Cornwall 40mm Rose Gold 04.MCBNW.0001",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-black-cornwall-40mm-rose-gold-04-mcbnw-0001?extParam=whid%3D2635346",
+        "product_id": "2148816294",
+        "price": {
+          "text_idr": "Rp 3.270.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0067d417-77da-41fc-8889-0897e8cb0f80.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/0067d417-77da-41fc-8889-0897e8cb0f80.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/0067d417-77da-41fc-8889-0897e8cb0f80.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 85
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Classic Petite Sterling 28mm 04.CPMW28.0002",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-classic-petite-sterling-28mm-04-cpmw28-0002?extParam=whid%3D2635346",
+        "product_id": "2045186166",
+        "price": {
+          "text_idr": "Rp 2.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/ef89895d-8876-41b3-8caf-056e8f5899c8.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/ef89895d-8876-41b3-8caf-056e8f5899c8.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/ef89895d-8876-41b3-8caf-056e8f5899c8.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Daniel Wellington Iconic Motion (10 ATM) 40 Silver Black DW00100436",
+        "product_url": "https://www.tokopedia.com/the-watch-co/daniel-wellington-iconic-motion-10-atm-40-silver-black-dw00100436?extParam=whid%3D2635346",
+        "product_id": "2030861786",
+        "price": {
+          "text_idr": "Rp 4.280.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/f36d2e6d-a4a5-4d28-b43f-42dea8a1a0ca.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/21/f36d2e6d-a4a5-4d28-b43f-42dea8a1a0ca.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2021/10/21/f36d2e6d-a4a5-4d28-b43f-42dea8a1a0ca.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Anting Olivia Burton Bejewelled Bee Earrings OBJAME106",
+        "product_url": "https://www.tokopedia.com/the-watch-co/anting-olivia-burton-bejewelled-bee-earrings-objame106?extParam=whid%3D2635346",
+        "product_id": "616055375",
+        "price": {
+          "text_idr": "Rp 588.750"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/20/3355325/3355325_525a5b5a-cfd5-472a-b1c2-ae081234643a.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/20/3355325/3355325_525a5b5a-cfd5-472a-b1c2-ae081234643a.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/product-1/2020/7/20/3355325/3355325_525a5b5a-cfd5-472a-b1c2-ae081234643a.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "25",
+          "original_price_fmt": "Rp 785.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Pria Timex Waterbury Classic Chrono 40mm TW2T71500 Original",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-pria-timex-waterbury-classic-chrono-40mm-tw2t71500-original?extParam=whid%3D2635346",
+        "product_id": "612369838",
+        "price": {
+          "text_idr": "Rp 1.559.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/f0d0f97b-8d72-411e-9cfa-bfd828357b38.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/9/f0d0f97b-8d72-411e-9cfa-bfd828357b38.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/f0d0f97b-8d72-411e-9cfa-bfd828357b38.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 2.599.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Wanita Olivia Burton 3D Bee Midi Grey Dial Rose Gold Mesh",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-wanita-olivia-burton-3d-bee-midi-grey-dial-rose-gold-mesh?extParam=whid%3D2635346",
+        "product_id": "523076328",
+        "price": {
+          "text_idr": "Rp 3.700.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/7ba08645-651d-41b2-889a-51f0a560782b.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/11/24/7ba08645-651d-41b2-889a-51f0a560782b.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/11/24/7ba08645-651d-41b2-889a-51f0a560782b.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 5",
+            "type": "textDarkGrey",
+            "url": ""
+          },
+          {
+            "position": "campaign",
+            "title": "Women in Style",
+            "type": "",
+            "url": "https://images.tokopedia.net/img/phOWBv/2023/3/14/48ba1909-8f08-4688-ad81-3c8bd973deff.png"
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 4,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Mens Waterbury Ocean Dark Blue with Dark Blue Dial",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-mens-waterbury-ocean-dark-blue-with-dark-blue-dial?extParam=whid%3D2635346",
+        "product_id": "6382887544",
+        "price": {
+          "text_idr": "Rp 1.259.400"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/2a4c5a48-58b7-490f-a4f7-8781dc2c987f.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2022/12/9/2a4c5a48-58b7-490f-a4f7-8781dc2c987f.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2022/12/9/2a4c5a48-58b7-490f-a4f7-8781dc2c987f.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "40",
+          "original_price_fmt": "Rp 2.099.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 4",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 3,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Timex Expedition Full-Size CAT Black Case TW4B20400",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-timex-expedition-full-size-cat-black-case-tw4b20400?extParam=whid%3D2635346",
+        "product_id": "4749105372",
+        "price": {
+          "text_idr": "Rp 539.550"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/69fa25e7-8aee-4b38-8f51-735e421d6fb0.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/9/69fa25e7-8aee-4b38-8f51-735e421d6fb0.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/9/69fa25e7-8aee-4b38-8f51-735e421d6fb0.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "55",
+          "original_price_fmt": "Rp 1.199.000",
+          "start_date": "2023-03-01T10:00:00Z",
+          "end_date": "2023-03-19T23:59:00Z"
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 4",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 2,
+          "rating": 100
+        },
+        "category": {
+          "id": "0"
+        }
+      },
+      {
+        "name": "Jam Tangan Olivia Burton Midi Honey Bee Dusty Pink & Silver OB16FB25",
+        "product_url": "https://www.tokopedia.com/the-watch-co/jam-tangan-olivia-burton-midi-honey-bee-dusty-pink-silver-ob16fb25?extParam=whid%3D2635346",
+        "product_id": "3598150702",
+        "price": {
+          "text_idr": "Rp 2.475.000"
+        },
+        "primary_image": {
+          "original": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/0f192abc-bc91-4d30-bec9-5699384cc197.jpg",
+          "thumbnail": "https://images.tokopedia.net/img/cache/200-square/VqbcmM/2023/3/8/0f192abc-bc91-4d30-bec9-5699384cc197.jpg",
+          "resize300": "https://images.tokopedia.net/img/cache/300-square/VqbcmM/2023/3/8/0f192abc-bc91-4d30-bec9-5699384cc197.jpg"
+        },
+        "flags": {
+          "isSold": "False",
+          "isPreorder": "False",
+          "isWholesale": "False",
+          "isWishlist": "False"
+        },
+        "campaign": {
+          "discounted_percentage": "0",
+          "original_price_fmt": "",
+          "start_date": "",
+          "end_date": ""
+        },
+        "label": [],
+        "label_groups": [
+          {
+            "position": "integrity",
+            "title": "Terjual 4",
+            "type": "textDarkGrey",
+            "url": ""
+          }
+        ],
+        "badge": [
+          {
+            "title": "Official Store",
+            "image_url": "https://images.tokopedia.net/img/official_store_badge.png"
+          }
+        ],
+        "stats": {
+          "reviewCount": 0,
+          "rating": 0
+        },
+        "category": {
+          "id": "0"
+        }
+      }
+    ]
+  }
+}
